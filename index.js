@@ -12,7 +12,7 @@ if (XP < 1000) {
 }   else if (XP >= 7000 && XP < 8000) {
     console.log(heroi + " está no nível Platina");
 }    else if (XP >= 8000 && XP < 9000) {
-    console.log(heroi + " está no nível Ascedente");
+    console.log(heroi + " está no nível Ascendente");
 }   else if (XP >= 9000 && XP < 10000) {
     console.log(heroi + " está no nível Imortal");
 }   else if (XP >= 10000) {
