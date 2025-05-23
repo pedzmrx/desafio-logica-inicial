@@ -1,5 +1,5 @@
 const heroi = "O Herói Pedrao"
-const XP = 5000
+const XP = 6000
 
 if (XP < 1000) {
   console.log(heroi + " está no nível Ferro")
